@@ -16,8 +16,8 @@ const IndexPage = () => (
           //fontStyle: 'regular italic',
           fontFamily: "Fredericka the Great",
           fontStyle: 'italic',
-          fontWeight: 900,
-          fontSize: '2rem'
+          fontWeight: 400,
+          fontSize: '1.6rem'
         }}>{config.heading}</h2>
         <p>{config.subHeading}</p>
         <ul className="actions special">
