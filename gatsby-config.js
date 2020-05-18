@@ -13,7 +13,7 @@ module.exports = {
         fonts: [
           {
             family: 'Fredericka the Great',
-            variable: true,
+            variable: false,
             weights: ['200..900']
           }
         ]
