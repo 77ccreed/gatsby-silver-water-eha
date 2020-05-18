@@ -8,6 +8,18 @@ module.exports = {
   plugins: [
     'gatsby-plugin-react-helmet',
     {
+      resolve: `gatsby-plugin-google-fonts-v2`,
+      options: {
+        fonts: [
+          {
+            family: 'Fredericka the Great',
+            variable: true,
+            weights: ['200..900']
+          }
+        ]
+      }
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: config.manifestName,
