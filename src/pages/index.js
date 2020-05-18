@@ -13,8 +13,8 @@ const IndexPage = () => (
     <section id="banner">
       <div className="inner">
         <h2 style={{
-          //fontStyle: 'regular italic',
-          fontFamily: "Fredericka the Great",
+          //fontFamily: "Fredericka the Great",
+          fontFamily: "Times",
           fontStyle: 'italic',
           fontWeight: 400,
           fontSize: '1.6rem'
