@@ -14,8 +14,6 @@ const IndexPage = () => (
       <div className="inner">
         <h2 style={{
           //fontFamily: "Fredericka the Great",
-          fontFamily: "Times",
-          fontStyle: 'italic',
           fontWeight: 400,
           fontSize: '1.6rem'
         }}>{config.heading}</h2>
