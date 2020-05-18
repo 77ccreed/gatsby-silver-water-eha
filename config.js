@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: '✩ Luxury Beauty Brands - SilverWater',
+  heading: '✩✩✩ Luxury Beauty Brands - SilverWater',
   subHeading: 'Simple Home PURE Perfume. Sales from October 2020',
   // social
   socialLinks: [
