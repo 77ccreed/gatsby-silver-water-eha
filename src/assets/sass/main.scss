@@ -722,7 +722,7 @@ input[type="radio"] {
 	}
 
 	&.style1 {
-		color: _palette(accent2, bg);
+		color: _palette(accent7, bg);
 	}
 
 	&.style2 {
@@ -1474,7 +1474,7 @@ button,
 	}
 
 	&.style1 {
-		@include wrapper(accent1);
+		@include wrapper(accent7);
 	}
 
 	&.style2 {

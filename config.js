@@ -14,21 +14,27 @@ module.exports = {
   socialLinks: [
     {
       style: 'brands',
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      icon: 'fa-instagram',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/by_glowstar/',
     },
     {
       style: 'brands',
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://twitter.com/ByGlowstar',
     },
     {
-      style: 'solid',
-      icon: 'fa-envelope',
-      name: 'Email',
-      url: 'mailto:test@example.com',
+      style: 'brands',
+      icon: 'fa-facebook',
+      name: 'Facebook',
+      url: 'https://www.facebook.com/GlowStarFromSilverStar',
+    },
+    {
+      style: 'brands',
+      icon: 'fa-youtube',
+      name: 'Youtube',
+      url: 'https://www.youtube.com/channel/UCtGNOQvfgem31U7-DS8FSqw?view_as=subscriber',
     },
   ],
 };
