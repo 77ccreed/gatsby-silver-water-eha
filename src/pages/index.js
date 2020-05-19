@@ -39,19 +39,17 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>
-            Arcu aliquet vel lobortis ata nisl
+            One Cocktail, made from water
             <br />
-            eget augue amet aliquet nisl cep donec
+            that you can make at home and is Exceptionally Beautiful!
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-            eleifend
+            Ancient Doctrine
             <br />
-            fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-            ullamcorper.
+            and Wisdom.
           </p>
         </header>
-        <ul className="icons major">
+        { /*  <ul className="icons major">
           <li>
             <span className="icon fa-gem major style1">
               <span className="label">Lorem</span>
@@ -67,7 +65,7 @@ const IndexPage = () => (
               <span className="label">Dolor</span>
             </span>
           </li>
-        </ul>
+        </ul>*/}
       </div>
     </section>
 
