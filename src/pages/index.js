@@ -44,9 +44,7 @@ const IndexPage = () => (
             that you can make at home and is Exceptionally Beautiful!
           </h2>
           <p>
-            Ancient Doctrine
-            <br />
-            and Wisdom.
+            Ancient Doctrine <br />and Wisdom.
           </p>
         </header>
         { /*  <ul className="icons major">
