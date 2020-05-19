@@ -12,11 +12,7 @@ const IndexPage = () => (
   <Layout>
     <section id="banner">
       <div className="inner">
-        <h2 style={{
-          //fontFamily: "Fredericka the Great",
-          fontWeight: 400,
-          fontSize: '1.6rem'
-        }}>{config.heading}</h2>
+        <h2>{config.heading}</h2>
         <p>{config.subHeading}</p>
         <ul className="actions special">
           { /*<li>
