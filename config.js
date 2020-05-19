@@ -1,10 +1,10 @@
 module.exports = {
-  siteTitle: '✩ Luxury Beauty Brands - SilverWater', // <title>
+  siteTitle: '✩ Luxury Beauty Brands - SilverWater ✩', // <title>
   manifestName: 'SilverWater',
   manifestShortName: 'Water', // max 12 characters
   manifestStartUrl: '/',
-  manifestBackgroundColor: '#663399',
-  manifestThemeColor: '#663399',
+  manifestBackgroundColor: '#ffffff',
+  manifestThemeColor: '#ffffff',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
