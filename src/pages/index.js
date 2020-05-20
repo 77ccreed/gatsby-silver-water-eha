@@ -7,8 +7,8 @@ import Scroll from '../components/Scroll';
 import pic1 from '../assets/images/pic01.png';
 import pic2 from '../assets/images/pic02.png';
 import pic3 from '../assets/images/pic03.png';
-
 import briljandid from '../assets/images/briljandid.jpg';
+import samblapilt from '../assets/images/samblapilt.jpg';
 
 import config from '../../config';
 const IndexPage = () => (
@@ -180,6 +180,11 @@ const IndexPage = () => (
             </p>
           </li>
         </ul>
+        <div className="row gtr-50 gtr-uniform">
+          <div className="col-4"><span className="image fit"><img src={samblapilt} alt="" /></span></div>
+          <div className="col-4"><span className="image fit"><img src={samblapilt} alt="" /></span></div>
+          <div className="col-4"><span className="image fit"><img src={samblapilt} alt="" /></span></div>
+        </div>
       </div>
     </section>
 
