@@ -181,6 +181,7 @@ const IndexPage = () => (
           </li>
         </ul>
         <div className="row gtr-50 gtr-uniform">
+          <div className="col-12"><span className="image fit"><img src={samblapilt} alt="" /></span></div>
           <div className="col-4"><span className="image fit"><img src={samblapilt} alt="" /></span></div>
           <div className="col-4"><span className="image fit"><img src={samblapilt} alt="" /></span></div>
           <div className="col-4"><span className="image fit"><img src={samblapilt} alt="" /></span></div>
